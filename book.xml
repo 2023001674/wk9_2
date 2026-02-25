@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+
+<books>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <isbn>9780743273565</isbn>
+        <publisher>Scribner</publisher>
+        <edition>1st</edition>
+        <price>15.99</price>
+    </book>
+
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <isbn>9780061120084</isbn>
+        <publisher>Harper Perennial Modern Classics</publisher>
+        <edition>1st</edition>
+        <price>12.99</price>
+    </book>
+
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <isbn>9780451524935</isbn>
+        <publisher>Signet Classics</publisher>
+        <edition>1st</edition>
+        <price>9.99</price>
+    </book>
+
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <isbn>9780141439518</isbn>
+        <publisher>Penguin Classics</publisher>
+        <edition>2nd</edition>
+        <price>11.50</price>
+    </book>
+
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <isbn>9780316769488</isbn>
+        <publisher>Little, Brown and Company</publisher>
+        <edition>1st</edition>
+        <price>10.99</price>
+    </book>
+
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <isbn>9780547928227</isbn>
+        <publisher>Mariner Books</publisher>
+        <edition>3rd</edition>
+        <price>14.99</price>
+    </book>
+
+    <book>
+        <title>Fahrenheit 451</title>
+        <author>Ray Bradbury</author>
+        <isbn>9781451673319</isbn>
+        <publisher>Simon and Schuster</publisher>
+        <edition>1st</edition>
+        <price>13.50</price>
+    </book>
+
+    <book>
+        <title>Moby-Dick</title>
+        <author>Herman Melville</author>
+        <isbn>9781503280786</isbn>
+        <publisher>CreateSpace Independent Publishing Platform</publisher>
+        <edition>2nd</edition>
+        <price>16.75</price>
+    </book>
+</books>
